@@ -11,7 +11,7 @@ const sheckles = [
 ];
 
 const pets = [
-  { id: 101, name: "Raccoon", price: 50, image: "raccoon.png" },
+  { id: 101, name: "Raccoon", price: 80, image: "raccoon.png" },
   { id: 102, name: "Dragon Fly", price: 95, image: "dragonfly.png" },
   { id: 103, name: "Mimic Octopus", price: 115, image: "mimic-octopus.png" },
   { id: 104, name: "Praying Mantis", price: 55, image: "praying-mantis.png" },
