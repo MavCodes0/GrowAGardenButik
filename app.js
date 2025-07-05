@@ -7,7 +7,8 @@ const sheckles = [
   { id: 3, amount: "1.9T", price: 13, image: "coin-icon.png" },
   { id: 4, amount: "2.4T", price: 18, image: "coin-icon.png" },
   { id: 5, amount: "4T", price: 30, image: "coin-icon.png" },
-  { id: 6, amount: "6.3T", price: 45, image: "coin-icon.png" }
+  { id: 6, amount: "744T", price: 40, image: "coin-icon.png" }
+  ,
 ];
 
 const pets = [
